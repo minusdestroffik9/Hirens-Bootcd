@@ -205,4 +205,4 @@ This repository serves as the official landing page for Hiren's BootCD. The soft
 **Get the most recent version of Hiren's BootCD today!**
 
 ---
-**Last updated:** 2026-11-13 20:16:36 UTC
+**Last updated:** 2026-11-14 01:14:06 UTC
